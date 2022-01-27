@@ -1,21 +1,26 @@
-# This is a large heading
+# Josh Curry
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of **Jacksonville**, in the state of **Florida**, in the **United States of America**.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- Lord of the Rings
+- The Wheel of Time
+- The Gunpowder Trilogy
+
+### Food
+
+Here are some of my favorite restaurants in Jacksonville
+
+1. Enza's
+2. Tacolu
+3. Picasso's
+
+The best way to get in touch with me in [on Instagram](https://www.instagram.com/joshcurry08).
 
 ```
 This is
